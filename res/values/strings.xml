@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploMultimedios</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_world_button">Botón</string>
+    
+    <string name="on_create">ON CREATE</string>
+    <string name="on_resume">ON RESUME</string>
+    <string name="on_start">ON START</string>
+    <string name="on_pause">ON PAUSE</string>
+    <string name="on_destroy">ON DESTROY</string>
+
+</resources>
